@@ -1,0 +1,77 @@
+Ross Greves
+Professor Darrick Worsley
+Mobile App Outline
+11/24/2024
+Budget Buddy App Outline
+I. Project Description
+•	App Name: Budget Buddy
+•	Brief Description: Budget Buddy is a personal finance app designed to help users create budgets, track spending, and set financial goals. It provides tools for managing finances, offers tips for saving money, and generates insightful reports to help users stay on top of their financial health.
+II. Problem Addressing
+•	Identified Problem: Many individuals struggle to manage their finances effectively, leading to overspending, debt accumulation, and financial stress. Existing solutions may be too complex or lack the necessary tools to provide meaningful financial insights.
+•	Significance: Effective financial management is crucial for achieving economic stability and peace of mind. Budget Buddy aims to simplify personal finance management, making it accessible and user-friendly for everyone.
+III. Platform
+•	Platforms:
+o	Mobile platforms: iOS and Android
+o	Web platform: Responsive web application for desktop and mobile browsers
+•	Platform Considerations:
+o	Ensure compatibility across different devices and operating systems
+o	Focus on a seamless and consistent user experience
+IV. Front/Back End Support
+•	Front-End Technologies:
+o	React Native for mobile app development (iOS and Android)
+o	React.js for web application development
+•	Back-End Technologies:
+o	Node.js for server-side operations
+o	MongoDB for the database to handle user data and transactions
+•	Server-Side Infrastructure:
+o	Hosting on a cloud platform such as AWS or Google Cloud to ensure scalability, security, and high availability
+V. Functionality
+•	Core Functionalities:
+o	Budget Creation: Users can set monthly or weekly budgets based on income and expense categories.
+o	Expense Tracking: Real-time tracking of expenses, categorized by type, with visual summaries.
+o	Financial Goals: Users can set short-term and long-term financial goals and track progress.
+o	Reports and Insights: Detailed financial reports with charts and graphs to provide insights into spending habits.
+o	Tips and Advice: Personalized financial advice and tips based on user spending patterns.
+o	User Authentication: Secure login and data encryption to protect user information.
+VI. Design (Wireframes)
+•	Wireframes: Create detailed wireframes to visualize the layout and user interface of the app.
+o	Home Screen: Overview of budget status, recent transactions, and quick access to key features.
+o	Budget Screen: Detailed view of budget creation and management.
+o	Expense Tracking Screen: Interface for logging and categorizing expenses.
+o	Goals Screen: Interface for setting and tracking financial goals.
+o	Reports Screen: Visual representation of financial reports with charts and graphs.
+•	User Interface Considerations:
+o	Intuitive and user-friendly design
+o	Clean, modern aesthetic
+o	Easy navigation to enhance user experience
+VII. Updates Since Week 2
+•	Changes Made:
+o	Updated project outline to include new features.
+o	Added new modules for data processing.
+o	Fixed bugs identified in the initial implementation.
+•	Version Changelog:
+Changelog
+[Week 2]
+•	Initial project outline submitted.
+•	Basic functionality implemented.
+[Week 5]
+•	Updated project outline to include new features.
+•	Added new modules for data processing.
+•	Fixed bugs identified in the initial implementation.
+[Future Updates]
+•	Implement user authentication.
+•	Optimize the performance of data processing.
+•	Add unit tests.
+VIII. GitHub Repository
+•	Ensure your code is pushed to your GitHub classroom repository.
+•	Update your README.md to reflect the latest changes in your project. This may include installation instructions, usage examples, and a summary of new features.
+IX. Professional Outline Report
+•	This report mirrors the information on your GitHub Wiki and README.
+•	Include sections such as:
+o	Project Overview
+o	Objectives
+o	Features and Functionality
+o	Implementation Details
+o	Updates and Changes
+o	Future Work
+
